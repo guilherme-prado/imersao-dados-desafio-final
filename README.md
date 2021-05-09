@@ -16,3 +16,10 @@ Dito isso, minha análise será baseada nos seguintes mecanismos de ação:
 
 ### Notebook
 O passo a passo do estudo se encontra em: https://github.com/guilherme-prado/imersao-dados-desafio-final/blob/main/Notebooks/Drug_discovery_Guilherme_Prado.ipynb
+
+## Conclusão
+Esse foi um estudo inicial para demonstrar que é possível, utilizando os mais adequados modelos de predição, determinar que a partir das expressões gênicas, determinar que os mdas do nosso estudo serão ativados. Verificamos que um modelo de árvore de decisão foi capaz de alcançar aproximadamente 99% de acurácia.
+
+Verificamos também que é possível, desde que seja feita uma análise mais detalhada, dizer quais expressões gênicas podem estar relacionadas com a ativação desses mdas.
+
+Nesse estudo, não foi levado em consideração a viabilidade celular das amostras, mas seria relevante filtrar nos resultados, as amostras que apresentaram maior viabilidade celular.
