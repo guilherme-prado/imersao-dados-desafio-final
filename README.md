@@ -14,3 +14,5 @@ Dito isso, minha análise será baseada nos seguintes mecanismos de ação:
 * serotonin_receptor_agonist
 * serotonin_receptor_antagonist
 
+###Notebook
+O passo a passo do estudo se encontra em: https://github.com/guilherme-prado/imersao-dados-desafio-final/blob/main/Notebooks/Drug_discovery_Guilherme_Prado.ipynb
